@@ -258,3 +258,16 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .cart-badge {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 6px;
+    font-size: 12px;
+    font-weight: bold;
+    z-index: 1;
+  }
